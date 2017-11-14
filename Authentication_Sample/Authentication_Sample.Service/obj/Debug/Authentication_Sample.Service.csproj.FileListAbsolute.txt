@@ -1,0 +1,7 @@
+C:\Users\felipe.botelho\Desktop\Authentication_Sample\Authentication_Sample.Service\bin\Debug\Authentication_Sample.Service.dll
+C:\Users\felipe.botelho\Desktop\Authentication_Sample\Authentication_Sample.Service\bin\Debug\Authentication_Sample.Service.pdb
+C:\Users\felipe.botelho\Desktop\Authentication_Sample\Authentication_Sample.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\felipe.botelho\Desktop\Authentication_Sample\Authentication_Sample.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\felipe.botelho\Desktop\Authentication_Sample\Authentication_Sample.Service\obj\Debug\Authentication_Sample.Service.csprojResolveAssemblyReference.cache
+C:\Users\felipe.botelho\Desktop\Authentication_Sample\Authentication_Sample.Service\obj\Debug\Authentication_Sample.Service.dll
+C:\Users\felipe.botelho\Desktop\Authentication_Sample\Authentication_Sample.Service\obj\Debug\Authentication_Sample.Service.pdb
